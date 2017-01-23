@@ -40,7 +40,7 @@
   "optionalDependencies": {},
   "peerDependencies": {
     "jasmine": "2.x",
-    "protractor": "4.x"
+    "protractor": ">= 3.x <= 5.x"
   },
   "repository": {
     "type": "git",
